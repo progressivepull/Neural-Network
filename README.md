@@ -1,6 +1,5 @@
 # Neural-Network
 
-# Go Surfing
 Here are 5 essential facts about neural networks, simplified to understand in under 5 minutes:    
 
 **1. Neural Networks and Their Layers**      
