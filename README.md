@@ -1,5 +1,7 @@
 # Neural-Network
 
+[Context Repo](./Context_Repo.md)
+
 Here are 5 essential facts about neural networks, simplified to understand in under 5 minutes:    
 
 **1. Neural Networks and Their Layers**      
